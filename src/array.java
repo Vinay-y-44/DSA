@@ -11,7 +11,6 @@ public class array {
         int key  = 2;
         System.out.println("the key is in the position of :"+Arrays.binarySearch(arr,key));
 
-
         // Arrays.sort()
         // which will be used to sort an array
 
