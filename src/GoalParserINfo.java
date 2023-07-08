@@ -1,3 +1,4 @@
+
 public class GoalParserINfo {
     public static void main(String[] args) {
         String c = "G()(al)";

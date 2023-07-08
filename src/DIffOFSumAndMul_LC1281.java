@@ -1,3 +1,4 @@
+
 //https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 public class DIffOFSumAndMul_LC1281 {
     public static void main(String[] args) {
